@@ -1,0 +1,56 @@
+Pong Ver.1.0
+Hockey Pong Ver1.0
+Turbo Pong Ver.1.0
+
+Descripcion:
+Tres juegos similares pero con diferentes jugadores,Pong y Turbo Pong
+se juega con 2 Controles mientras que Hockey Pong con 4 Controles,ambos
+juegos tienen la misma mecanica,controlas a un
+jugador de pong y evita que la pelota atraviese tu borde
+
+Diferencias:
+Pong = Se juega a 2 Jugadores
+Hockey Pong = Se juega a 4 Jugadores
+Turbo Pong = Se Juega a 2 Jugadores con alta velocidad
+
+Controles:
+Pong/Turbo Pong
+           jugador 1     jugador 2
+           |             |           
+           V             V           
+SUBIR -    w             i           
+BAJAR -    s             k  
+ 
+EJEMPLO:
+
+                    |
+                    |
+           ||       |       ||     
+           ||       O       ||
+           ||       |       ||     
+                    |
+                    |        
+
+Hockey Pong
+
+             EQUIPO ROJO      /   EQUIPO AZUL
+         jugador 1  jugador 2     jugador 3   jugador 4
+         |          |             |           |
+         V          V             V           V
+SUBIR -  q          w             i           o
+BAJAR -  a          s             k           l
+
+EJEMPLO:
+
+                         |
+                         |
+         ||     ||       |       ||     ||
+         ||     ||       O       ||     ||
+         ||     ||       |       ||     ||
+                         |
+                         |
+
+Creditos:
+-Yerson Carrasco
+-Fabian Velasquez
+-Fredy  Corvalan
